@@ -88,21 +88,6 @@ In contrast to the [Accordion example](http://getbootstrap.com/javascript/#colla
       </div>
     </div>
 
-## CSS
-
-    .carousel-inner > .item > img {
-      width: 100%;
-    }
-    
-    .container {
-      padding-top: 20px;
-      padding-bottom: 20px;
-    }
-    
-    .well {
-      margin: 20px 0 0;
-    }
-
 ## Javascript
 
     $( document ).ready(function() {
@@ -144,6 +129,6 @@ In contrast to the [Accordion example](http://getbootstrap.com/javascript/#colla
 
 ## Demo
 
-* [Stack Overflow](http://stackoverflow.com/questions/37265371)
-* [Bootply](http://www.bootply.com/0yR7QTvNNw)
 * [CodePen](http://codepen.io/glebkema/pen/PNrBbX)
+* [Bootply](http://www.bootply.com/0yR7QTvNNw)
+* [Stack Overflow](http://stackoverflow.com/questions/37265371)
