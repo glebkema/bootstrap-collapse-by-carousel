@@ -1,10 +1,10 @@
-# Bootstrap 3. Collapse and expand blocks under the carousel, depending on the active slide
+# Bootstrap 3. Collapse and expand blocks under the&nbsp;carousel, depending on&nbsp;the&nbsp;active&nbsp;slide
 
-Add the class `for-slide-2` to the block, and the block will be expanded under the slide with the index `2`. 
+Add the class `for-slide-2` to&nbsp;the&nbsp;block, and&nbsp;the&nbsp;block will&nbsp;be&nbsp;expanded under the&nbsp;slide with&nbsp;the&nbsp;index&nbsp;`2`. 
 
 The block can respond to a few slides. The slide can control multiple blocks.
 
-In contrast to the [Accordion example](http://getbootstrap.com/javascript/#collapse-example-accordion), the blocks are always expanded in only one direction - from top to bottom.
+In contrast to the [Accordion example](http://getbootstrap.com/javascript/#collapse-example-accordion), the&nbsp;blocks are always expanded in&nbsp;only&nbsp;one direction&nbsp;&ndash; from&nbsp;top to&nbsp;bottom.
 
 ## HTML
 
