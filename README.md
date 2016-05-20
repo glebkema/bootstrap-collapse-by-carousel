@@ -1,2 +1,2 @@
-# bootstrap-collapsing-by-tabs
-Collapse and expand Bootstrap's tabs like an accordion pane.
+# bootstrap-collapsing-by-carousel
+Collapse and expand blocks under the carousel, depending on the active slide.
