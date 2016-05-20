@@ -4,6 +4,8 @@ Add the class `for-slide-2` to the block, and the block will be expanded under t
 
 The block can respond to a few slides. The slide can control multiple blocks.
 
+In contrast to the [Accordion example](http://getbootstrap.com/javascript/#collapse-example-accordion), the blocks are always expanded in only one direction - from top to bottom.
+
 ## HTML
 
     <div class="container">
