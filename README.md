@@ -135,8 +135,19 @@ $( document ).ready(function() {
 });
 ```
 
+## Required
+
+* jQuery 
+* bootstrap.min.js (or set of [transition.js](http://getbootstrap.com/javascript/#transitions), [collapse.js](http://getbootstrap.com/javascript/#collapse) and [carousel.js](http://getbootstrap.com/javascript/#carousel))
+* bootstrap.min.css
+
+Look [Bootstrap's basic template](http://getbootstrap.com/getting-started/#template) and [Bootstrap CDN](http://getbootstrap.com/getting-started/#download-cdn).
+
 ## Demo
 
-* [CodePen](http://codepen.io/glebkema/pen/PNrBbX)
+* [Codepen](http://codepen.io/glebkema/pen/PNrBbX)
 * [Bootply](http://www.bootply.com/0yR7QTvNNw)
+
+## Thanks
+
 * [Stack Overflow](http://stackoverflow.com/questions/37265371)
