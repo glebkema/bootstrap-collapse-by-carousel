@@ -1,5 +1,4 @@
-# bootstrap-collapsing-by-carousel
-Bootstrap 3. Collapse and expand blocks under the carousel, depending on the active slide.
+# Bootstrap 3. Collapse and expand blocks under the carousel, depending on the active slide
 
 Add the class `for-slide-2` to the block, and the block will be expanded under the slide with the index `2`. 
 
