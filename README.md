@@ -1,6 +1,4 @@
-# Bootstrap 3. Collapse and expand blocks under the&nbsp;carousel, depending on&nbsp;the&nbsp;active&nbsp;slide
-
-
+# Bootstrap 3. Collapse and expand blocks under the&nbsp;carousel depending on&nbsp;the&nbsp;active&nbsp;slide
 
 Add the class `for-slide-2` to&nbsp;the&nbsp;block, and&nbsp;the&nbsp;block will&nbsp;be&nbsp;expanded under the&nbsp;slide with&nbsp;the&nbsp;index&nbsp;`2`. 
 
@@ -150,4 +148,4 @@ Look [Bootstrap's basic template](http://getbootstrap.com/getting-started/#templ
 
 ## Thanks
 
-* [Stack Overflow](http://stackoverflow.com/questions/37265371)
+* [Stack Overflow](http://stackoverflow.com/questions/37265371/#37277437)
